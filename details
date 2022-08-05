@@ -1,0 +1,7 @@
+==================shell file path=========================
+
+cd /home     
+
+=================command=====================
+crontab -e           //show list of cronjobs
+pwd                 //access present working directory
